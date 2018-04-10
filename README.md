@@ -22,7 +22,7 @@ http://amigaprj.blogspot.com.br/2013/09/snes-flash-cartridge.html - mc68k
 
 
 
-Me e-mail: nyvevbsvyub926@lnubb.pbz.oe - ROT13
+Me e-mail: aliriofilho926@yahoo.com.br
 
 ![alt text](https://github.com/Alirio926/snescart/blob/master/fotos/20180410_014118.jpg)
 ![alt text](https://github.com/Alirio926/snescart/blob/master/fotos/20180410_014142.jpg)
