@@ -20,4 +20,6 @@ https://github.com/aiju/snes-flash / http://aiju.de/electronics/SNES-cartridge -
 
 http://amigaprj.blogspot.com.br/2013/09/snes-flash-cartridge.html - mc68k
 
-nyvevbsvyub926@lnubb.pbz.oe - ROT13
+
+
+Me e-mail: nyvevbsvyub926@lnubb.pbz.oe - ROT13
